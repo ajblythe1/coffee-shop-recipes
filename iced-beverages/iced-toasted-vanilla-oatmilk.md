@@ -1,4 +1,4 @@
-### Iced Toasted Vanilla Shaken Coffee with Oatmilk
+# Iced Toasted Vanilla Shaken Coffee with Oatmilk
 
 ## Description: Craft rich notes of caramelized vanilla in this café-inspired shaken iced coffee recipe
 
